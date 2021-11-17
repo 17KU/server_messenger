@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class KobertConfig(AppConfig):
+class LoginSignupConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'KoBert'
+    name = 'login_signup'
